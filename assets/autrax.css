@@ -57,3 +57,6 @@
                 display: grid;
                 grid-template-columns: 1fr 1fr 1fr 1fr;
             }
+            #streaming > a {
+                text-align: center;
+            }
